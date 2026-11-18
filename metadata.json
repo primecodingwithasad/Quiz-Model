@@ -1,0 +1,6 @@
+{
+  "name": "Tiffany Quiz",
+  "description": "Interactive multi-stage quiz experience covering General Knowledge, Physics, Chemistry, Computer Science, Mathematics, World General Knowledge, and Funny MCQs with alternating question sets and student highest score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
